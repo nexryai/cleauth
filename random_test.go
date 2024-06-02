@@ -1,4 +1,4 @@
-package nauth
+package cleauth
 
 import (
 	"math/rand"

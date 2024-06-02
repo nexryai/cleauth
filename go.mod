@@ -1,3 +1,3 @@
-module github.com/nexryai/nauth
+module github.com/nexryai/cleauth
 
-go 1.22.2
+go 1.18
